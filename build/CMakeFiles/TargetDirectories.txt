@@ -1,0 +1,7 @@
+/home/kamran/Documents/game/build/CMakeFiles/neon_requem.dir
+/home/kamran/Documents/game/build/CMakeFiles/edit_cache.dir
+/home/kamran/Documents/game/build/CMakeFiles/rebuild_cache.dir
+/home/kamran/Documents/game/build/CMakeFiles/list_install_components.dir
+/home/kamran/Documents/game/build/CMakeFiles/install.dir
+/home/kamran/Documents/game/build/CMakeFiles/install/local.dir
+/home/kamran/Documents/game/build/CMakeFiles/install/strip.dir
